@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S1ba1
 - 👀 I’m interested in design
-- 🌱 I’m currently learning JS, React
+- 🌱 I’m currently learning JS, React, CSS and HTML
 - 📫 How to reach me @supersebay
 
 <!---
